@@ -3,3 +3,4 @@ This is a sample text file
 3rd line
 4th line
 5th line
+main added
